@@ -342,6 +342,7 @@ Where indie makers hang out, share ideas, and launch products.
 | [Indie Hackers](https://www.indiehackers.com/) | Founders helping founders |
 | [Reddit](https://www.reddit.com/) | Topic-focused communities (r/SideProject, r/indiebiz) |
 | [Dev.to](https://dev.to/) | Community for developers |
+| [Cobalt Studio Tools](https://techchenko.github.io/cobaltstudio-products/tools/) | Free no-signup micro-tools for solo builders (cold email, proposals, side hustle discovery) |
 
 ## Product Launch Platforms
 
