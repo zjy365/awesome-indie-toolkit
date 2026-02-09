@@ -346,6 +346,8 @@ Where indie makers hang out, share ideas, and launch products.
 | [Cobalt Studio Templates Hub](https://techchenko.github.io/cobaltstudio-products/files/) | Free copy/paste business templates (proposal, SOW, contract, invoice follow-ups, kickoff/status emails) |
 | [Cold Email Generator](https://techchenko.github.io/cobaltstudio-products/tools/cold-email-generator/) | Generate 3 short cold emails + subject lines (copy/paste) |
 | [Freelance Rate Calculator](https://techchenko.github.io/cobaltstudio-products/tools/rate-calculator/) | Calculate hourly and project rates based on your income goal, expenses, and billable hours |
+| [Project Closeout Email Generator](https://techchenko.github.io/cobaltstudio-products/tools/project-closeout-email-generator/) | Draft a clear wrap-up email (deliverables, links, handover, next steps) |
+| [Client Offboarding Checklist Generator](https://techchenko.github.io/cobaltstudio-products/tools/client-offboarding-checklist-generator/) | Generate an offboarding checklist (handover, access removal, documentation) |
 
 ## Product Launch Platforms
 
