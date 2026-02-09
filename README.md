@@ -343,6 +343,9 @@ Where indie makers hang out, share ideas, and launch products.
 | [Reddit](https://www.reddit.com/) | Topic-focused communities (r/SideProject, r/indiebiz) |
 | [Dev.to](https://dev.to/) | Community for developers |
 | [Cobalt Studio Tools](https://techchenko.github.io/cobaltstudio-products/tools/) | Free no-signup micro-tools for solo builders (cold email, proposals, side hustle discovery) |
+| [Cobalt Studio Templates Hub](https://techchenko.github.io/cobaltstudio-products/files/) | Free copy/paste business templates (proposal, SOW, contract, invoice follow-ups, kickoff/status emails) |
+| [Cold Email Generator](https://techchenko.github.io/cobaltstudio-products/tools/cold-email-generator/) | Generate 3 short cold emails + subject lines (copy/paste) |
+| [Freelance Rate Calculator](https://techchenko.github.io/cobaltstudio-products/tools/rate-calculator/) | Calculate hourly and project rates based on your income goal, expenses, and billable hours |
 
 ## Product Launch Platforms
 
