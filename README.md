@@ -280,6 +280,7 @@ Ship it! Deploy your app globally in minutes with these platforms.
 | [Looka](https://looka.com/) | Logo maker with branding assets |
 | [Logo.surf](https://logo.surf/) | Simple text-based logo generator |
 | [Favicon Generator](https://realfavicongenerator.net/) | Multi-platform favicon generation |
+| [TinyTools](https://tinytools-smoky.vercel.app/) | Free favicon generator + color palette generator + domain name generator (no signup, browser-based, open source) |
 | [CloudConvert](https://cloudconvert.com/) | Convert between SVG, PNG, ICO, etc. |
 
 ### Icon Libraries
@@ -311,6 +312,7 @@ Ship it! Deploy your app globally in minutes with these platforms.
 | [CloudConvert](https://cloudconvert.com/) | Universal file converter |
 | [Gifski](https://gif.ski/) | Convert videos to high-quality GIFs |
 | [OG Image Playground](https://og-playground.vercel.app/) | Generate Open Graph images |
+| [TinyTools](https://tinytools-smoky.vercel.app/) | Free OG image generator + AI background remover (runs locally in-browser, no upload, no signup) |
 
 ## Screen Recording
 
