@@ -281,6 +281,7 @@ Ship it! Deploy your app globally in minutes with these platforms.
 | [Logo.surf](https://logo.surf/) | Simple text-based logo generator |
 | [Favicon Generator](https://realfavicongenerator.net/) | Multi-platform favicon generation |
 | [CloudConvert](https://cloudconvert.com/) | Convert between SVG, PNG, ICO, etc. |
+| [TinyTools](https://tinytools-smoky.vercel.app/) | Free browser-based toolkit: favicon generator, OG image generator, color palette generator, domain name generator and more — no signup, open source |
 
 ### Icon Libraries
 
