@@ -176,6 +176,7 @@ Pick your weapons. These frameworks and tools form the foundation of modern indi
 | [v0](https://v0.dev/) | Text-to-UI by Vercel (200 credits/month free) |
 | [Bolt.new](https://bolt.new/) | Create apps & websites by chatting with AI |
 | [Lovable](https://lovable.dev/) | Build apps and websites by chatting with AI |
+| [igly.ai](https://igly.ai/) | Browser-based AI image editor for product visuals, background removal, inpainting, upscaling, and generative fill |
 | [Framer](https://www.framer.com/) | Professional website design and prototyping |
 | [Figma](https://www.figma.com/) | Collaborative interface design tool |
 
