@@ -311,6 +311,7 @@ Ship it! Deploy your app globally in minutes with these platforms.
 | [CloudConvert](https://cloudconvert.com/) | Universal file converter |
 | [Gifski](https://gif.ski/) | Convert videos to high-quality GIFs |
 | [OG Image Playground](https://og-playground.vercel.app/) | Generate Open Graph images |
+| [MyOG.social](https://myog.social/) | Open Graph checker, social preview QA, OG image generator, Chrome extension, and WordPress plugin. Add one tag. Every page gets a branded social card. |
 
 ## Screen Recording
 
