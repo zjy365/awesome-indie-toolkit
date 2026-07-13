@@ -67,6 +67,7 @@ The latest AI-powered tools that are revolutionizing how we code and build produ
 | [Claude Code](https://claude.ai/code) 🌟 | Anthropic's AI coding assistant for the terminal with deep understanding |
 | [OpenCode](https://github.com/sst/opencode) 🌟 | Open-source terminal-based AI coding agent with LSP support |
 | [Codex](https://github.com/openai/codex) 🌟 | Lightweight AI coding agent from OpenAI for your terminal |
+| [codex-profiles](https://github.com/Ducksss/codex-profiles) | Manage named Codex CLI homes and separate ChatGPT Desktop windows |
 | [Gemini CLI](https://github.com/google/generative-ai-cli) 🌟 | Command-line interface for Google's Gemini AI |
 | [GitHub Copilot CLI](https://githubnext.com/projects/copilot-cli/) | AI-powered command-line assistance |
 
