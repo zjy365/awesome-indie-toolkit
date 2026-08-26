@@ -203,6 +203,7 @@ The moment of truth - collecting money. These platforms make it painless.
 | [Creem](https://www.creem.io/) 🌟 | Modern payment platform with developer-first approach |
 | [Paddle](https://www.paddle.com/) | Merchant of record handling tax compliance |
 | [Lemon Squeezy](https://www.lemonsqueezy.com/) | All-in-one platform for digital products |
+| [Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/) | Free browser-based invoice/receipt PDF generator. [Commercial EUR 249 one-time](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-indie-toolkit-v1) white-label PDFs, 6 templates, CSV batch CLI, no account. |
 
 ## Email Services
 
