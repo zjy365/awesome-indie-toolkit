@@ -37,6 +37,7 @@ Building digital products solo? This collection brings together the most powerfu
 - [Customer Support](#customer-support)
 - [Deployment & Hosting](#deployment--hosting)
 - [Domain Registration](#domain-registration)
+- [Domain Monitoring](#domain-monitoring)
 - [Documentation](#documentation)
 - [Branding & Design Assets](#branding--design-assets)
 - [Media Processing](#media-processing)
@@ -255,6 +256,13 @@ Ship it! Deploy your app globally in minutes with these platforms.
 | [Namecheap](https://www.namecheap.com/) | Budget-friendly domain registration |
 | [Cloudflare](https://www.cloudflare.com/products/registrar/) | At-cost pricing with no markup |
 | [Porkbun](https://porkbun.com/) | Great prices and free SSL certificates |
+
+## Domain Monitoring
+
+| Tool | Features |
+|------|----------|
+| [Vacato](https://vacato.io) | Free RDAP watchlist for taken names you want — 10 domains, 5-min checks, Telegram/email/Slack alerts. Not a registrar or drop-catcher; alerts only. |
+
 
 ## Documentation
 
