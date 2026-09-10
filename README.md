@@ -342,6 +342,7 @@ Where indie makers hang out, share ideas, and launch products.
 | [Indie Hackers](https://www.indiehackers.com/) | Founders helping founders |
 | [Reddit](https://www.reddit.com/) | Topic-focused communities (r/SideProject, r/indiebiz) |
 | [Dev.to](https://dev.to/) | Community for developers |
+| [VibeHacker](https://vibehacker.com) | Discover, review, and launch AI products with AI builders and vibe coders |
 
 ## Product Launch Platforms
 
