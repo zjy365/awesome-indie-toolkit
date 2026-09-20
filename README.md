@@ -203,6 +203,7 @@ The moment of truth - collecting money. These platforms make it painless.
 | [Creem](https://www.creem.io/) 🌟 | Modern payment platform with developer-first approach |
 | [Paddle](https://www.paddle.com/) | Merchant of record handling tax compliance |
 | [Lemon Squeezy](https://www.lemonsqueezy.com/) | All-in-one platform for digital products |
+| [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) | Free browser freelance invoice/quote/retainer tools (MIT) |
 
 ## Email Services
 
