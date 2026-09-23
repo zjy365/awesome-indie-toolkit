@@ -345,6 +345,7 @@ Where indie makers hang out, share ideas, and launch products.
 
 ## Product Launch Platforms
 
+- [Social Roster](https://socialroster.dev) - Schedule TikTok, Instagram Reels, YouTube Shorts, and Facebook videos from one calendar — with bulk upload.
 | Platform | Description |
 |----------|-------------|
 | [Product Hunt](https://www.producthunt.com/) | Premier launch platform for new products |
