@@ -78,6 +78,7 @@ The latest AI-powered tools that are revolutionizing how we code and build produ
 | [v0](https://v0.dev/) | Text-to-UI by Vercel powered by AI |
 | [Bolt.new](https://bolt.new/) | Create stunning apps & websites by chatting with AI |
 | [Lovable](https://lovable.dev/) | Build apps and websites by chatting with AI |
+| [AppWizzy](https://appwizzy.com/) | Build web apps from prompts and templates in dedicated development VMs with Git-backed source editing |
 
 ### AI Development Assistants (VS Code Extensions)
 
