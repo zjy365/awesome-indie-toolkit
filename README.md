@@ -309,6 +309,7 @@ Ship it! Deploy your app globally in minutes with these platforms.
 | [TinyPNG](https://tinypng.com/) 🌟 | Intelligent PNG and JPEG compression |
 | [Squoosh](https://squoosh.app/) | Image compression in the browser |
 | [CloudConvert](https://cloudconvert.com/) | Universal file converter |
+| [CurlShot](https://curlshot.com/) | Screenshot API: URL, HTML or Markdown to PNG, PDF or scrolling video (free tier) |
 | [Gifski](https://gif.ski/) | Convert videos to high-quality GIFs |
 | [OG Image Playground](https://og-playground.vercel.app/) | Generate Open Graph images |
 
