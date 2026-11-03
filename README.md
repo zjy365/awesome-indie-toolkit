@@ -352,6 +352,7 @@ Where indie makers hang out, share ideas, and launch products.
 | [BetaList](https://betalist.com/) | Discover and get early access to startups |
 | [There's An AI For That](https://theresanaiforthat.com/) | Directory for AI tools |
 | [Reddit](https://www.reddit.com/) | Relevant subreddits for product launches |
+| [MEDIAPRONET](https://mediapronet.com/) | Curated directory of new startups, SaaS tools and indie products |
 
 ---
 
