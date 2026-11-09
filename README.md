@@ -311,6 +311,7 @@ Ship it! Deploy your app globally in minutes with these platforms.
 | [CloudConvert](https://cloudconvert.com/) | Universal file converter |
 | [Gifski](https://gif.ski/) | Convert videos to high-quality GIFs |
 | [OG Image Playground](https://og-playground.vercel.app/) | Generate Open Graph images |
+| [AdVariq](https://advariq.com/) | AI commercial ad creative and product marketing visual generator for indie builders & online brands |
 
 ## Screen Recording
 
