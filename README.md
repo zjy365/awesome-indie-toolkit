@@ -34,6 +34,7 @@ Building digital products solo? This collection brings together the most powerfu
 - [Payment Processing](#payment-processing)
 - [Email Services](#email-services)
 - [Analytics](#analytics)
+- [Market Research](#market-research)
 - [Customer Support](#customer-support)
 - [Deployment & Hosting](#deployment--hosting)
 - [Domain Registration](#domain-registration)
@@ -220,6 +221,14 @@ The moment of truth - collecting money. These platforms make it painless.
 | [Umami](https://umami.is/) | Open-source, self-hostable analytics |
 | [PostHog](https://posthog.com/) | All-in-one product analytics |
 | [Microsoft Clarity](https://clarity.microsoft.com/) | Free heatmaps and session recordings |
+
+## Market Research
+
+Tools to check existing software competitors, demand signals, and pricing before you build.
+
+| Platform | Description |
+|----------|-------------|
+| [EarlyLore](https://earlylore.com/) | Validate product ideas against live software competitors, demand signals, pricing benchmarks, and acquisition channels. Free starter access; traffic figures are estimates. |
 
 ## Customer Support
 
