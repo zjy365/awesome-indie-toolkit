@@ -394,6 +394,7 @@ Level up your development workflow with these power tools.
 | [Replicate](https://replicate.com/) | Run ML models via API |
 | [Together.ai](https://www.together.ai/) | Open-source AI model inference |
 | [Groq](https://groq.com/) | Ultra-fast LLM inference |
+| [No Stairs Please](https://nostairsplease.com/) | Live-music venue directory and MCP server for touring bands and AI assistants |
 
 ---
 
