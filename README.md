@@ -376,6 +376,12 @@ Level up your development workflow with these power tools.
 | [Insomnia](https://insomnia.rest/) | Open-source API client |
 | [Hoppscotch](https://hoppscotch.io/) | Lightweight API development tool |
 
+### QA & Migration
+
+| Tool | Purpose |
+|------|---------|
+| [LS Exit Audit](https://twappleon.github.io/ls-exit-audit/?utm_source=awesome_indie_stack&utm_medium=github_pr&utm_campaign=ls_exit_audit_v030) (Paid) | Local CLI that inventories Lemon Squeezy references across files and URL lists, producing CSV and Markdown migration evidence |
+
 ### Cloud Services
 
 | Provider | Strengths |
